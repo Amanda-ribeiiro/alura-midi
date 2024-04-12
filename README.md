@@ -8,7 +8,8 @@ O Alura MIDI Tocador é um aplicativo simples e divertido que permite reproduzir
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
+![image](https://github.com/Amanda-ribeiiro/alura-midi/assets/108890154/f16c5f8d-9d25-4d36-be21-77028e884415)
+
 
 
 ## Funcionalidades
